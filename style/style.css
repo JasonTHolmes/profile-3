@@ -1,0 +1,23 @@
+Body{
+    background-color:rgb(207, 173, 173);
+
+}
+header, footer {
+    background-image:url(images/cropped.jpg);
+    background-repeat:no-repeat;
+    background-position: 50% 0px;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+
+section {
+    font-weight: bold;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
